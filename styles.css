@@ -1,0 +1,30 @@
+/* *{font-family:Andale mono, monospace;} this makes everything in this font*/
+h1{
+    font-family:Andale mono, monospace; 
+    color: #fef2eb;
+    font-size: 40px;
+    text-align: center;
+    background-color: #5b7e5d;
+}
+
+body{
+    background-color: #fef2eb
+}
+
+h3{
+    font-family:Andale mono, monospace; 
+    color: #5b7e5d;
+    font-size: 20px;
+}
+
+li{
+    list-style-position: inside;
+    font-family:Andale mono, monospace; 
+    color: #5b7e5d;
+    font-size: 15px;
+    
+}
+
+liframe{
+    align-items: center;
+}
